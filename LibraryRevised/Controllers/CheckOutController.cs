@@ -27,7 +27,7 @@ namespace LibraryRevised.Controllers
             var book = service.GetOneBook(id);
             if (book.IsCheckedOut) //so the book is not in the library
             {
-                return Ok(new { ResponseMessage = "This book is unavailable" });
+                return Ok(new {ResponseMessage = "This book is unavailable", book.DueBackDate});
             }
                 
             
