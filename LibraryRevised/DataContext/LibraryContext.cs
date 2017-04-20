@@ -16,5 +16,11 @@ namespace LibraryRevised.DataContext
         }
 
         public DbSet<Library> Library{ get; set; }
+
+        internal object LibraryService()
+        {
+            throw new NotImplementedException();
+        }
+        //public IEnumerable<LibraryRevised> Books { get; internal set; }
     }
 }

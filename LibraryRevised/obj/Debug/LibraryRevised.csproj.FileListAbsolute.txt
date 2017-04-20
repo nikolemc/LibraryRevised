@@ -75,3 +75,5 @@ C:\Users\Nikole McStanley\tiy\week-6\LibraryRevised\LibraryRevised\LibraryRevise
 C:\Users\Nikole McStanley\tiy\week-6\LibraryRevised\LibraryRevised\LibraryRevised\obj\Debug\LibraryRevised.csprojResolveAssemblyReference.cache
 C:\Users\Nikole McStanley\tiy\week-6\LibraryRevised\LibraryRevised\LibraryRevised\obj\Debug\LibraryRevised.dll
 C:\Users\Nikole McStanley\tiy\week-6\LibraryRevised\LibraryRevised\LibraryRevised\obj\Debug\LibraryRevised.pdb
+C:\Users\Nikole McStanley\tiy\week-6\LibraryRevised\LibraryRevised\LibraryRevised\obj\Debug\LibraryRevised.Migrations.Init.resources
+C:\Users\Nikole McStanley\tiy\week-6\LibraryRevised\LibraryRevised\LibraryRevised\obj\Debug\LibraryRevised.csproj.GenerateResource.Cache

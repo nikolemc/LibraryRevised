@@ -12,9 +12,9 @@ namespace LibraryRevised.Models
         public string Author { get; set; }
         public int YearPublished { get; set; }
         public string Genre { get; set; }
-        public bool IsCheckedOut { get; set; }
-        public DateTime? LastCheckedOutDate { get; set; }
-        public DateTime? DueBackDate { get; set; }
-        public string ResponseMessage { get; set; }
+        public bool IsCheckedOut { get; set; } = false;
+        public DateTime? LastCheckedOutDate { get; set; } = DateTime.Now;
+        public DateTime? DueBackDate { get; set; } = DateTime.Now.AddDays(10);
+        public string ResponseMessage { get; set; } 
     }
 }
